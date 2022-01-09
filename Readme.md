@@ -10,7 +10,7 @@ The environment we work in day to day provides a constant supply of information 
 
 Notarank is a app for storing, organizing, and notes taken throughout the day.  Notes are taken using a App which is also responsible for marking the time and long location of the user.  This information is stored in users device itself.   Photos or text notes taken with the app can also be bound to the note.  As an advanced feature, a notes can be categorised using color indicators. 
 
-![SS](https://drive.google.com/file/d/1Obbu6guoPG-6ovSYleu2fKsx5TBSBdBx/view?usp=sharing)
+<img width="559" alt="sampleimages" src="https://user-images.githubusercontent.com/18289261/142846646-a6858641-ad88-43aa-b8bb-b690fd7126f1.png">
 
 
 
