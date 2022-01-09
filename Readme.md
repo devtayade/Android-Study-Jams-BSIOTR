@@ -12,12 +12,13 @@ Notarank is a app for storing, organizing, and notes taken throughout the day.  
 
 
 
+.
+
+
+.
+.
 
 
 
-
-
-
-
-The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : 
+The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : https://github.com/devtayade/Android-Study-Jams-BSIOTR
 
