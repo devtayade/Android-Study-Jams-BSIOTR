@@ -12,13 +12,19 @@ Notarank is a app for storing, organizing, and notes taken throughout the day.  
 
 <img width="150" alt="sampleimages1" src="https://github.com/devtayade/Android-Study-Jams-BSIOTR/blob/master/WhatsApp%20Image%202022-01-07%20at%2012.20.43%20PM%20(1).jpeg?raw=true">
 
+## Functionality and concepts used:
 
+Notarank app is a simple and awesome notes taking and feature providing app - it gives quick and simple editing experience when you write notes, memos, emails, messages, shopping lists and to-do lists. 
 
+Following are few android concepts used to achieve the functionalities in app :
 
-.
-.
+Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 
+RecyclerView : To present the list of different notes and priority color panels
 
+MVVM - LiveData & Room Database : We are also using LiveData to update & observe any changes in notes, for example (Delete notes, create notes, update notes)
+
+## Application Link & Future Scope :
 
 The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : https://github.com/devtayade/Android-Study-Jams-BSIOTR
 
