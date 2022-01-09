@@ -26,5 +26,6 @@ MVVM - LiveData & Room Database : We are also using LiveData to update & observe
 
 ## Application Link & Future Scope :
 
-The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : https://github.com/devtayade/Android-Study-Jams-BSIOTR
+The app is currently in the Alpha testing phase with GDSC BSIOTR with a limited no. of users, 
+You can access the app code : https://github.com/devtayade/Android-Study-Jams-BSIOTR
 
