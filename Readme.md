@@ -12,7 +12,7 @@ Notarank is a app for storing, organizing, and notes taken throughout the day.  
 
 
 
-.
+
 
 
 .
